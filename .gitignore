@@ -1,0 +1,8 @@
+node_modules/
+session.md
+makefun-run.json
+kit/
+*.tar.gz
+output/
+out/
+dist/
